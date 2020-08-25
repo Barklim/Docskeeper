@@ -3,7 +3,9 @@
 
 [Веб-страница](https://barklim.github.io/DocskeeperWeb/)
 
-[Веб-версия](https://github.com/Barklim/Docskeeper)
+Репозиторий [Веб-версия](https://github.com/Barklim/DocskeeperWeb)
+
+English version [Readme.md](https://github.com/Barklim/Docskeeper/blob/master/README.md)
 
 ## Table of Contents
 
@@ -15,8 +17,6 @@
 - [Мета](#Мета)
 
 ## Информация
-
-English version [Readme.md](https://github.com/Barklim/Docskeeper/blob/master/README.md)
 
 Тестовое приложение для хранения и управления документацией.
 
