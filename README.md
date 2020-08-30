@@ -5,6 +5,8 @@ App for keeping business docs :office:
 
 Repository [Web Version](https://github.com/Barklim/DocskeeperWeb)
 
+Repository [Server](https://github.com/Barklim/DocskeeperServer)
+
 Русская версия [Readme_ru.md](https://github.com/Barklim/Docskeeper/blob/master/README_RU.md)
 
 ## Table of Contents
