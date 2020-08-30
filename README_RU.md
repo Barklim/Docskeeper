@@ -3,6 +3,8 @@
 
 [Веб-страница](https://barklim.github.io/DocskeeperWeb/)
 
+Json-Server [UI](https://my-json-server.typicode.com/Barklim/DocskeeperServer)
+
 Репозиторий [Веб-версия](https://github.com/Barklim/DocskeeperWeb)
 
 Репозиторий [Сервер](https://github.com/Barklim/DocskeeperServer)
